@@ -1,0 +1,23 @@
+button{
+  height: 50px;
+  width: 100px;
+  
+}
+.btn2{
+  position: absolute;
+  
+  top: 5px ;
+
+}
+.divv{
+  position: relative;
+}
+.hidden{
+  display: none;
+}
+.showGif{
+  height: 500px;
+  width: 600px;
+  background-image: url(./giphy.gif);
+  background-repeat: no-repeat;
+}
